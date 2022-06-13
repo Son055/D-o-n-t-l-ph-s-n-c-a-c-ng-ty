@@ -1,2 +1,2 @@
-# D-o-n-t-l-ph-s-n-c-a-c-ng-ty
+#Dự đoán tỷ lệ phá sản
 Sử dụng các thuật toán Kneiborgh. RandomTree, GradienrBooost
